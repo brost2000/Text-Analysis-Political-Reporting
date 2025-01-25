@@ -1,2 +1,1 @@
-#Introduction
 This project analyzes a number of differerent news articles using the NewsAPI tool in Python combined with analysis using Pandas and Matplotlib for visualization. In the attached code, you will find that the articles were selected by the API based on keywords regarding major themes in US politics. Likewise, from those selected articles, certain keywords pertaining to political and physical violence were analyzed for frequency. Based on this analysis, visualizations using Matplotlib and Apple Numbers were cerated. 
